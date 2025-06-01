@@ -13,7 +13,7 @@ var Quote = [
     {quotes: ".راحة الجسم في قلّة الطعام، وراحة النفس في قلّة الآثام، وراحة القلب في قلّة الاهتمام، وراحة اللسان في قلة الكلام" ,author: "― علي ابن ابي طالب" },
     {quotes: "Successful people are not gifted; they just work hard, and then succeed on purpose." ,author: "― G.K. Nielson" },
     {quotes: "Don’t wait for inspiration. It comes while working." ,author: "― Henri Matisse" },
-    {quotes: "Success isn’t overnight. It’s when every day you get a little better than the day before. It all adds up." ,author: "― علي ابن أبي طالب"},
+    {quotes: "Success isn’t overnight. It’s when every day you get a little better than the day before. It all adds up." ,author: "―Dwayne Johnson"},
     {quotes: "!. الغرب ليسوا عباقرة ونحن لسنا أغبياء؛ هم فقط يدعمون الفاشل حتى ينجح، ونحن نحارب الناجح حتى يفشل" ,author: "― أحمد زويل" },
     {quotes: ".المرء دائما حيث يضع نفسة" ,author: "― أحمد زويل" },
 ];
